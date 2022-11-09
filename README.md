@@ -13,3 +13,5 @@ ADT7310
 SPI https://akizukidenshi.com/catalog/g/gM-06708/
 
 耐熱範囲が150℃まであるので桁焼きに最適。
+
+一般的なライブラリに加えてpyserialが必要。
