@@ -1,4 +1,4 @@
-import serial
+import serial #You need pyserial
 import time
 import datetime
 import matplotlib.pyplot as plt
