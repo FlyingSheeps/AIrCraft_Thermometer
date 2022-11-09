@@ -17,7 +17,7 @@ SPI https://akizukidenshi.com/catalog/g/gM-06708/
 一般的なライブラリに加えてpyserialが必要。
 
 
-#使い方
+# 使い方
 
 1. raspberrypi picoにArduino IDEでシリアルプロットプログラムを書き込む。
 2. マイコンがつながっているPCのポート番号を確認する（このプログラムではCOM3となっている）。
