@@ -1,4 +1,4 @@
-# Aircraft_Thermometer
+# AirCraft_Thermometer
 
 秋月とかで売ってるADT7410を使って（現状一箇所）の温度を測定します。  
 pythonを使ってリアルタイムプロットとcsvログができます。
