@@ -22,5 +22,5 @@ with open('temperture.csv','w',newline='') as f:
         plotbuffer[1].append(vald)
 
         plt.plot(plotbuffer[0], plotbuffer[1])
-        plt.pause(5)
+        plt.pause(5) #ここで更新頻度（秒）を設定できる
         plt.clf() 
