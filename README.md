@@ -19,7 +19,7 @@ SPI https://akizukidenshi.com/catalog/g/gM-06708/
 
 # 使い方
 
-1. raspberrypi picoにArduino IDEでシリアルプロットプログラムを書き込む。
+1. raspberrypi picoにArduino IDEでpico_thermo.inoを書き込む。
 2. マイコンがつながっているPCのポート番号を確認する（このプログラムではCOM3となっている）。
 3. プログラムのポート番号を実際のポート番号に変更、ボーレートをマイコンに合わせる。
 4. プログラムを実行。コマンドプロンプトでの実行でしか動作確認していないので注意。  
