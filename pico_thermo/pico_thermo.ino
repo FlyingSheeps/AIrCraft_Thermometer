@@ -6,7 +6,7 @@ Adafruit_ADT7410 tempsensor = Adafruit_ADT7410();
 
 void setup() {
   // put your setup code here, to run once:
-  Serial.begin(115200);
+  Serial.begin(9600);
   delay(1000);
   
   Wire.setSDA(20);

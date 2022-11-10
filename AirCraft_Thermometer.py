@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import csv
 
 plotbuffer = [[],[]] #プロット用のバッファー
-serial0 = serial.Serial('COM3', 115200,timeout=2.0) #シリアル通信を開く ポート名とボーレートは自分でチェックして
+serial0 = serial.Serial('COM3', 9600,timeout=2.0) #シリアル通信を開く ポート名とボーレートは自分でチェックして
 with open('temperture.csv','w',newline='') as f: #ログ用CSV開く
     writer = csv.writer(f) #CSVライタ
     while(True):
