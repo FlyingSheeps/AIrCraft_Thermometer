@@ -29,7 +29,7 @@ SPI https://akizukidenshi.com/catalog/g/gM-06708/
 温度制御の検討のためにMatlabで単純適応制御を一次遅れ系に適用するシミュレーションを行った．  
 σ-修正法（ゲインの変動に一次遅れをかける）を用いることでゲインのバースト現象を抑えることに成功した．
 シミュレーション上では時定数1sの炉に適応可能であり，時定数が大きくなるほど目標追従性能は良くなる．
-![一次遅れ](/fig/rag.eps)  
-![温度](/fig/temp.eps)  
-![誤差](/fig/error.eps)  
-![ゲイン](/fig/gain.eps)  
+![一次遅れ](/fig/rag.png)  
+![温度](/fig/temp.png)  
+![誤差](/fig/error.png)  
+![ゲイン](/fig/gain.png)  
